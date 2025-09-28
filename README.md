@@ -1,6 +1,6 @@
 # Hosting Pterodactyl Panel and Multiple Websites on a Single VPS with nginx and Isolated SSH Users
 
-Running a **Pterodactyl panel** alongside multiple websites on the same VPS is not only possible but also manageable with the right setup. This guide walks you through the entire process — from choosing the right VPS, securing it, setting up **nginx with vhosts**, configuring **per-site SSH/SFTP isolation**, and finally deploying **Pterodactyl Panel + Wings**.
+Running a **Pterodactyl panel** alongside multiple websites on the same VPS is not only possible but also manageable with the right setup. This guide walks you through the entire process from choosing the right VPS, securing it, setting up **nginx with vhosts**, configuring **per-site SSH/SFTP isolation**, and finally deploying **Pterodactyl Panel + Wings**.
 
 ## 🖥️ 1. Choosing the Right VPS & Operating System
 
